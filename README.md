@@ -3,43 +3,43 @@ Here's a complete GitHub `README.md` file for your **Smart Document Categorizer 
 ---
 
 ````markdown
-# 📁 Smart Document Categorizer & Organizer
+📁 Smart Document Categorizer & Organizer
 
 A Python-based desktop application that helps you scan, tag, and organize documents automatically using keyword detection, metadata analysis, and file structure logic. Built using `Tkinter`, this tool is ideal for decluttering your document folders.
 
 ---
 
-## 🚀 Features
+🚀 Features
 
-- 📄 **Supports PDF, DOCX, and TXT files**
-- 🧠 **Automatic Categorization** into:
+- 📄 Supports PDF, DOCX, and TXT files
+- 🧠 Automatic Categorization into:
   - `important`
   - `junk`
   - `old`
   - `new`
   - `unused`
   - `current`
-- 📂 **Organize Files By:**
+- 📂 Organize Files By:
   - Extension (`.pdf`, `.docx`, `.txt`, etc.)
   - Size (small or large files)
   - Last Accessed Date (Less than 10, 20, or more than 20 days)
-- 🔑 **Keyword-based Categorization**
+- 🔑 Keyword-based Categorization
   - Customize important keywords
   - Upload junk keyword list from `.txt` file
-- 📆 **Date Filtering**
+- 📆 Date Filtering
   - Scan documents only within a selected range
-- 🖥️ **Simple GUI Interface**
+- 🖥️ Simple GUI Interface
   - Built with Tkinter for easy usability
 
 ---
 
-## 🖼️ GUI Preview
+🖼️ GUI Preview
 
 ![screenshot](https://drive.google.com/uc?export=view&id=1pkf6zE43rhnhm4VwmzCxnXbJXV59UtIW)
 
 ---
 
-## 📦 Requirements
+📦 Requirements
 
 - Python 3.7+
 - Required packages:
